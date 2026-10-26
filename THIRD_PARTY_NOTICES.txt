@@ -1,0 +1,4 @@
+Audio: Kenney Interface Sounds, CC0 (public domain).
+https://kenney.nl/assets/interface-sounds
+Source samples: confirmation_001.ogg and back_001.ogg, converted to embedded PCM WAV files.
+Game names and artwork belong to their respective owners.
